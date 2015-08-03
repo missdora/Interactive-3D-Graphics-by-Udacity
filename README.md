@@ -1,3 +1,3 @@
 # Interactive-3D-Graphics-by-Udacity
 
-[Notes](https://github.com/missdora/Interactive-3D-Graphics-by-Udacity/issues)
+[Reading Notes](https://github.com/missdora/Interactive-3D-Graphics-by-Udacity/issues)
